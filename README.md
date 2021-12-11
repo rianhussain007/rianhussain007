@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning web3,python programming...
 - 💞️ I’m looking to collaborate on web3 tech,new projects
-- 📫 How to reach me 786rian@gmail.com
+- 📫 How to reach me 786rianhussain@gmail.com
 
 <!---
 rianhussain007/rianhussain007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
