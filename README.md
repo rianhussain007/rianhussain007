@@ -2,7 +2,7 @@
 
 ## 👋 Hey there, I'm Rian!
 
- *"I don't just learn to code — I build things people actually use."*
+"I don't just learn to code — I build things people actually use."
 
 I'm a passionate developer from India 🇮🇳, currently pursuing my studies while building real-world mobile and web applications. I love turning ideas into products — from Android apps with Firebase backends to Web3 projects.
 
