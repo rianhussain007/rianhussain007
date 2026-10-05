@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Rian Hussain
+# Hey, I'm Rian Hussain
 
 ### I build AI-powered products that turn ideas into things people can actually use.
 
@@ -10,7 +10,7 @@ I like working at the intersection of **research × engineering × real-world pr
 
 ---
 
-## 🚀 What I'm Building
+## What I'm Building
 
 ### 🦺 ErgoVigilance
 
@@ -34,7 +34,7 @@ A computer-vision system designed to understand worker posture and identify ergo
 
 ---
 
-### 🫱 MarmaAI
+### MarmaAI
 
 **AI-powered acupressure point localization & AR guidance**
 
@@ -57,7 +57,7 @@ A computer-vision system for locating and verifying hand acupressure points and 
 
 ---
 
-### 💊 MediMind
+###  MediMind
 
 **A simple Android medication reminder**
 
@@ -67,7 +67,7 @@ An Android application focused on making medication schedules easier to manage.
 
 ---
 
-## 🧠 What I'm Interested In
+##  What I'm Interested In
 
 I'm particularly interested in building systems that can **see, reason, predict, and interact with the real world.**
 
@@ -96,7 +96,7 @@ Areas I'm currently exploring:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
@@ -120,7 +120,7 @@ Areas I'm currently exploring:
 
 ---
 
-## 📌 Projects Worth Exploring
+##  Projects Worth Exploring
 
 | Project              | What it does                                           |
 | -------------------- | ------------------------------------------------------ |
@@ -150,7 +150,7 @@ That's the direction I'm building toward.
 
 ---
 
-## 🌱 Follow the Journey
+##  Follow the Journey
 
 I'm constantly experimenting with new ideas, building prototypes, breaking things, and figuring out how to make them better.
 
@@ -160,14 +160,14 @@ If you're interested in **AI, computer vision, backend systems, or building ambi
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 📧 **[Email](mailto:786rianhussain@gmail.com)**
 💻 **[GitHub](https://github.com/rianhussain007)**
 
 ---
 
-### ⚡ One more thing
+###  One more thing
 
 > **The best way to learn something is to build it.**
 >
